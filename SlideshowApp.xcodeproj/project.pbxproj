@@ -13,6 +13,13 @@
 		7CF2E6E11C4F52F3001ED1EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6DF1C4F52F3001ED1EA /* Main.storyboard */; };
 		7CF2E6E31C4F52F3001ED1EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6E21C4F52F3001ED1EA /* Assets.xcassets */; };
 		7CF2E6E61C4F52F3001ED1EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6E41C4F52F3001ED1EA /* LaunchScreen.storyboard */; };
+		7CF2E6F41C4F53F2001ED1EA /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6ED1C4F53F2001ED1EA /* 1.png */; };
+		7CF2E6F51C4F53F2001ED1EA /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6EE1C4F53F2001ED1EA /* 2.png */; };
+		7CF2E6F61C4F53F2001ED1EA /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6EF1C4F53F2001ED1EA /* 3.png */; };
+		7CF2E6F71C4F53F2001ED1EA /* b1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6F01C4F53F2001ED1EA /* b1.png */; };
+		7CF2E6F81C4F53F2001ED1EA /* b2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6F11C4F53F2001ED1EA /* b2.png */; };
+		7CF2E6F91C4F53F2001ED1EA /* n1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6F21C4F53F2001ED1EA /* n1.png */; };
+		7CF2E6FA1C4F53F2001ED1EA /* n2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF2E6F31C4F53F2001ED1EA /* n2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +33,13 @@
 		7CF2E6E21C4F52F3001ED1EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CF2E6E51C4F52F3001ED1EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CF2E6E71C4F52F3001ED1EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CF2E6ED1C4F53F2001ED1EA /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		7CF2E6EE1C4F53F2001ED1EA /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		7CF2E6EF1C4F53F2001ED1EA /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		7CF2E6F01C4F53F2001ED1EA /* b1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b1.png; sourceTree = "<group>"; };
+		7CF2E6F11C4F53F2001ED1EA /* b2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = b2.png; sourceTree = "<group>"; };
+		7CF2E6F21C4F53F2001ED1EA /* n1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = n1.png; sourceTree = "<group>"; };
+		7CF2E6F31C4F53F2001ED1EA /* n2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = n2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +88,13 @@
 		7CF2E6D61C4F52F3001ED1EA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				7CF2E6ED1C4F53F2001ED1EA /* 1.png */,
+				7CF2E6EE1C4F53F2001ED1EA /* 2.png */,
+				7CF2E6EF1C4F53F2001ED1EA /* 3.png */,
+				7CF2E6F01C4F53F2001ED1EA /* b1.png */,
+				7CF2E6F11C4F53F2001ED1EA /* b2.png */,
+				7CF2E6F21C4F53F2001ED1EA /* n1.png */,
+				7CF2E6F31C4F53F2001ED1EA /* n2.png */,
 				7CF2E6D71C4F52F3001ED1EA /* main.m */,
 			);
 			name = "Supporting Files";
@@ -137,7 +158,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CF2E6E61C4F52F3001ED1EA /* LaunchScreen.storyboard in Resources */,
+				7CF2E6F41C4F53F2001ED1EA /* 1.png in Resources */,
+				7CF2E6F51C4F53F2001ED1EA /* 2.png in Resources */,
+				7CF2E6F61C4F53F2001ED1EA /* 3.png in Resources */,
 				7CF2E6E31C4F52F3001ED1EA /* Assets.xcassets in Resources */,
+				7CF2E6FA1C4F53F2001ED1EA /* n2.png in Resources */,
+				7CF2E6F91C4F53F2001ED1EA /* n1.png in Resources */,
+				7CF2E6F81C4F53F2001ED1EA /* b2.png in Resources */,
+				7CF2E6F71C4F53F2001ED1EA /* b1.png in Resources */,
 				7CF2E6E11C4F52F3001ED1EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -298,6 +326,7 @@
 				7CF2E6EC1C4F52F3001ED1EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
