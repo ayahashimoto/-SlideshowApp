@@ -64,14 +64,10 @@ bButton.center = CGPointMake(250, 430);
 // バックボタン用の命令
 -(void)changeImageUsingnIfB:(id)sender{
     countNumber--;
-    if (countNumber==0) {
-        aImageView.image = [UIImage imageNamed:@"3.png"];
-    } else if (countNumber==-1) {
-        aImageView.image = [UIImage imageNamed:@"2.png"];
-    } else if (countNumber==-2) {
-        aImageView.image = [UIImage imageNamed:@"1.png"];
-        countNumber = 1;
+    if(countNumber == 0){
+        countNumber = 3;
     }
+    aImageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"%ld.png",(long)countNumber]];
 }
 
 
